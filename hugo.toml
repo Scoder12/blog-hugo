@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Spencer Pogorzelski'
+copyright = 'Spencer Pogorzelski'
+theme = 'ananke'
